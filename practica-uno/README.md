@@ -4,12 +4,12 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+| `Erick Fernando` | `Poma Condori` | `7087337` |
 
-## Ejercicio 1
-Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
+## Ejercicio 1 :see_no_evil:
+Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros. 
 
-## Ejercicio 2
+## Ejercicio 2 :see_no_evil:
 Construye un API con GraphQL para gestionar el seguimiento de las plantas de un vivero. La API debe permitir:
 - Crear una planta
 - Listar todas las plantas
@@ -29,7 +29,7 @@ De las plantas se debe almacenar la siguiente información:
 **Rutas esperadas:**
 - `/graphql`
 
-## Ejercicio 3
+## Ejercicio 3 :see_no_evil:
 Aplicando los principios de desarrollo de Software DRY, KISS, YAGNI y la S de SOLID construye un API RESTful para gestionar la información de los pacientes de un hospital. La API debe permitir:
 - Crear un paciente
 - Listar todos los pacientes
@@ -57,10 +57,10 @@ De los pacientes se debe almacenar la siguiente información:
 - PUT `/pacientes/{ci}`
 - DELETE `/pacientes/{ci}`
 
-## Ejercicio 4
+## Ejercicio 4 :see_no_evil:
 Aplica el patron de diseño BUILDER al ejercicio 3.
 
-## Ejercicio 5
+## Ejercicio 5 :see_no_evil:
 Construye una API RESTful para gestionar la información del los animales de un zoologico. La API debe permitir:
 
 - Crear un animal
@@ -86,10 +86,10 @@ De los animales se debe almacenar la siguiente información:
 - PUT `/animales/{id}`
 - DELETE `/animales/{id}`
 
-## Ejercicio 6
+## Ejercicio 6 :see_no_evil:
 Aplica el patron de diseño FACTORY al ejercicio 5 considerando que los animales pueden ser de tipo `Mamífero`, `Ave`, `Reptil`, `Anfibio` o `Pez`.
 
-## Ejercicio 7
+## Ejercicio 7 :see_no_evil:
 Aplicando los principios de desarrollo de Software DRY, KISS, YAGNI y la S de SOLID construye un API RESTful con el patron de diseño SINGLETON para jugar piedra, papel o tijera con el servidor. La API debe permitir:
 
 - Crear una partida
@@ -133,7 +133,7 @@ Ejemplo de la respuesta POST `/partidas`:
 }
 ```
 
-## Ejercicio 8
+## Ejercicio 8 :see_no_evil:
 Aplicando los principios de desarrollo de Software DRY, KISS, YAGNI y la S de SOLID construye una API RESTful para encriptar mensajes, la API debe permitir:
 
 - Crear un mensaje

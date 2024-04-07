@@ -4,6 +4,6 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+| `Erick Fernando` | `Poma Condori` | `7087337` |
 
 *Ejercicios Próximamente...*
